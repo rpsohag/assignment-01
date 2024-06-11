@@ -1,5 +1,10 @@
 ## Laravel Career Path Batch 02 Assignment 01
 
+## Download this code in your machine
+```bash
+git clone https://github.com/rpsohag/assignment-01.git
+```
+
 ## problem 01 result
 ```bash
 php problem-01.php
